@@ -1,15 +1,8 @@
 package org.example.task1;
 
-import org.example.task1.Animal;
-import org.example.task1.Breathing;
-import org.example.task1.Person;
 import org.example.task2.Blogs;
 import org.example.task2.NewsPaper;
 import org.example.task2.Press;
-
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
 
 /**
  * Hello world!
