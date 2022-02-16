@@ -1,4 +1,4 @@
-package org.example.task4;
+package lesson.task4;
 
 import java.util.Objects;
 

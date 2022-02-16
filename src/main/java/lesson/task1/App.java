@@ -1,8 +1,8 @@
-package org.example.task1;
+package lesson.task1;
 
-import org.example.task2.Blogs;
-import org.example.task2.NewsPaper;
-import org.example.task2.Press;
+import lesson.task2.Blogs;
+import lesson.task2.NewsPaper;
+import lesson.task2.Press;
 
 /**
  * Hello world!

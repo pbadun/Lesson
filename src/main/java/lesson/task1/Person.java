@@ -1,8 +1,8 @@
-package org.example.task1;
+package lesson.task1;
 
-public class Animal implements Breathing, Eating {
+public class Person implements Breathing, Eating {
 
-
+    @Override
     public void breathe() {
         System.out.println("breathe " + getClass().getName());
     }

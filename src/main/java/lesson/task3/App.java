@@ -1,4 +1,4 @@
-package org.example.task3;
+package lesson.task3;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
